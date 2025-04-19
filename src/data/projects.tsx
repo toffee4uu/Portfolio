@@ -258,8 +258,8 @@ const projects: Project[] = [
         PROJECT_SKILLS.sockerio,
       ],
     },
-    live: "https://www.codingducks.xyz/",
-    github: "https://github.com/Naresh-Khatri/Coding-Ducks",
+    live: "#",
+    github: "#",
     get content() {
       return (
         <div>
@@ -500,8 +500,8 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
-    live: "http://nareshkhatri.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    live: "#",
+    github:"#",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
@@ -566,8 +566,8 @@ const projects: Project[] = [
     title: "GhostChat",
     src: "/assets/projects-screenshots/ghostchat/1.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png"],
-    live: "https://ghostchat.vercel.app",
-    github:"https://github.com/Naresh-Khatri/GhostChat",
+    live: "#",
+    github:"#",
     skills: {
       frontend: [PROJECT_SKILLS.js, PROJECT_SKILLS.next, PROJECT_SKILLS.chakra],
       backend: [PROJECT_SKILLS.supabase],
@@ -602,7 +602,7 @@ const projects: Project[] = [
     title: "JNTUA Results Analyzer",
     src: "/assets/projects-screenshots/jra/1.png",
     screenshots: ["1.png"],
-    live: "https://naresh-khatri.github.io/JNTUA-result-analyser-spa/#/",
+    live: "#",
     skills: {
       frontend: [PROJECT_SKILLS.js, PROJECT_SKILLS.vue],
       backend: [

@@ -15,7 +15,7 @@ const PROJECTS = [
     description: `Dive into CodingDucks, a fusion of CodePen's creative playground with LeetCode's problem-solving realm.
 Whether you're a newbie or a seasoned coder, join the community to paddle through coding adventures and let your
 creativity soar.`,
-    link: "https://www.codingducks.live",
+    link: "#",
     images: [
       "/assets/projects-screenshots/codingducks/1.png",
       "/assets/projects-screenshots/codingducks/2.png",
@@ -29,7 +29,7 @@ creativity soar.`,
     name: "Ghost Chat",
     description: `GhostChat is an anonymous messaging app that allows users to connect without revealing their identities. 
 Join the community for intriguing conversations and mysterious encounters.`,
-    link: "https://ghostchatt.vercel.app/",
+    link: "#",
     images: [
       "/assets/projects-screenshots/ghostchat/1.png",
       "/assets/projects-screenshots/ghostchat/2.png",
@@ -42,7 +42,7 @@ Join the community for intriguing conversations and mysterious encounters.`,
     name: "Coupon Luxury",
     description: `Welcome to CouponLuxury, your destination for exclusive discounts and savings. Explore the platform to find the
 best deals on luxury brands and products. Join our savvy community of shoppers and unlock access to premium coupons.`,
-    link: "https://www.couponluxury.com/",
+    link: "#",
     images: [
       "/assets/projects-screenshots/couponluxury/1.png",
       "/assets/projects-screenshots/couponluxury/2.png",
